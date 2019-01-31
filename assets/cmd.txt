@@ -1,5 +1,0 @@
-git remote add origin http://github.cm/...
- git push --set-upstream origin master
-
-  git pull --rebase origin master
- git push origin master
